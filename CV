@@ -1,0 +1,131 @@
+<html>
+    <head>
+        <title>CV of Fahim Sadman Chowdhury</title>
+    </head>
+    <body>
+        <table border="0" align="center">
+            <tr>
+            <td> <font size="5" color="blue">Fahim Sadman Chowdhury</font><br/>Computer Engineer Graduate</td>
+            <td> <font size="5" color="blue"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+            </tr>
+            <tr>
+            <td> <font size="4">&nbsp;</font></td>
+            </tr>
+            <tr>
+            <td> Email Id: faahimsadman@gmail.com</td>
+            </tr>
+            <tr>
+            <td> Contact Number: +8801742523794 </font></td>
+            </tr>
+            <tr>
+            <td> Adress: Dhaka,Bangladesh</font></td>
+            </tr>
+            </tr>
+            <tr>
+                <td> &nbsp;</u></font></td>
+            </tr>
+            <tr>
+                <td> <font size="4" color=blue><u><b>EDUCATION</b></u></font></td>
+            <td> <font size="4">&nbsp;</font></td>
+                <td> <font size="4" color=blue><u><b>TECHNICAL SKILLS</b></u></font></td>
+            </tr>
+            <tr>
+                <td> <font size="3"><b>BSc in Computer Engineering</b></font></td>
+                <td> <font size="4">&nbsp;</font></td>
+                <td rowspan="6"> 
+                    <ul>
+              			<li>Basic knowledge in C, C++, java,XML, HTML.</li>
+              			<li>Strong knowledge in C#.</li>
+              			<li>Basic Knowledge in OOP concepts.</li>
+              		    <li>MsWord,Excel,PowerPoint</li>
+              		</ul> 
+                </td>
+            </tr>           
+            <tr>
+                <td> <font size="3">American International University-Bangladesh</font></td>
+            </tr>
+            </tr>
+            <tr>
+            <td> &nbsp;</td>
+            </tr>
+            <tr>
+                <td> <font size="3"><b>Higher Secondary School Certificate</b></font></td>
+            </tr>
+            <tr>
+                <td> <font size="3">Bangladesh Navy College,Chittagong</font></td>
+            </tr>
+            <tr>
+                <td> <font size="3">Board: Chittagong</font></td>
+                
+                <td> &nbsp;</td>
+               
+            </tr>
+            <tr>
+                <td> <font size="3">GPA: 4.25</font></td>
+                <td> &nbsp;</td>
+                <td rowspan="3"> 
+               <ul>
+                </ul>
+                </td>
+            </tr>
+            <td> <font size="4">&nbsp;</font></td>
+            </tr>
+            <tr>
+                <td> <font size="3"><b>Secondary School Certificate</b></font></td> 
+            </tr>
+            <tr>
+                <td> <font size="3">Bangladesh Navy School,Chittagong</font></td>   
+                <td> <font size="4">&nbsp;</font></td>
+            <td> <font size="4" color=blue><u><b>PERSONAL PROJECTS</b></u></font></td>
+            </tr>
+            <tr>
+                <td> <font size="3">Board:Chittagong </font></td>
+                <td> <font size="4">&nbsp;</font></td>
+                <td rowspan="3" valign="top"> 
+               <ul>
+                <li>Gymnasium Management System (Database)
+                <li>Library Management System (JAVA)</li> 
+                <li>Inventory Store Management System(C#) </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+            <tr>
+                <td> <font size="3">GPA: 5.00</font></td>
+            </tr>
+            <tr>
+            <td> <font size="4">&nbsp;</font></td>
+                <td> <font size="4">&nbsp;</font></td>
+            </tr>
+            
+            <tr>
+                <td> <font size="4">&nbsp;</font></td>
+                <td> <font size="4">&nbsp;</font></td>
+                 
+            </tr>
+            <tr>
+                <td> <font size="4" color=blue><u><b>EXTRA-CURRICULAR ACITIVITIES</b></u></font></td>
+                <td> <font size="4" color=blue><u>
+                     </tr>
+            <tr>
+            <td> 
+               <ul>
+                 
+                <li>General Member at AIUB Computer Club</li>
+                <li>Member at FireFox at AIUB</li>
+                <li>Member at AIUB SHOMOY CLUB</li>
+                <li>Lead Volunteer AIUB 19thConvocation</li>
+                <li>Volunteer at Ideas Challenge</li>  
+                <li>Volunteer at AIUB CS Fest 2017</li>
+                <li>Volunteer at AIUB CS Fest 2018</li>
+                <li>Volunteer at AIUB Cyber Gaming Fest 2018</li>
+                <li>Volunteer at Cyber Security Challange 2018</li>
+                <li>Volunteer at Youth Fest 2018</li>
+                <li>Attended workshop on Data mining</li>
+                <li>Attended workshop on Research Career</li>
+                </ul>
+                </td>
+            </tr>            
+        </table>   
+    </body>
+</html>
